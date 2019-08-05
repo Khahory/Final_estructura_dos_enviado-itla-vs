@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\obj\Debug\netcoreapp2.1\Final_estructura_dos.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\obj\Debug\netcoreapp2.1\Final_estructura_dos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\obj\Debug\netcoreapp2.1\Final_estructura_dos.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\obj\Debug\netcoreapp2.1\Final_estructura_dos.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\bin\Debug\netcoreapp2.1\Final_estructura_dos.deps.json
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\bin\Debug\netcoreapp2.1\Final_estructura_dos.runtimeconfig.json
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\bin\Debug\netcoreapp2.1\Final_estructura_dos.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\bin\Debug\netcoreapp2.1\Final_estructura_dos.dll
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\bin\Debug\netcoreapp2.1\Final_estructura_dos.pdb
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\obj\Debug\netcoreapp2.1\Final_estructura_dos.dll
+C:\Users\Angel\source\repos\Final_estructura_dos\Final_estructura_dos\obj\Debug\netcoreapp2.1\Final_estructura_dos.pdb
